@@ -1,5 +1,5 @@
 # Image-Classification-with-Transfer-Learning
-A Kaggle competition to distinguish images of dogs from cats
+A [Kaggle competition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview) to distinguish images of dogs from cats
 
 ## Overview
 I have tried two different aproaches:
